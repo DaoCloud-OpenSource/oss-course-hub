@@ -25,6 +25,11 @@
 - [2023 南京大学 “操作系统：设计与实现” (蒋炎岩)](https://space.bilibili.com/202224425/channel/collectiondetail?sid=1116786)
 - https://www.coursera.org/learn/machine-learning
 - https://www.coursera.org/search?query=%E5%BC%80%E6%BA%90&topic=Computer%20Science&sortBy=BEST_MATCH
+- [斯坦福2023年公开课CS25 I - Transformer入门介绍（中英文字幕）](https://www.youtube.com/watch?v=kog-DHyROks)
+- [【清华NLP】刘知远团队大模型公开课全网首发｜带你从入门到实战](https://www.bilibili.com/video/BV1UG411p7zv)
+- 台大公开课 https://ocw.aca.ntu.edu.tw/ntu-ocw/category/3
+
+
 
 ### 开源书籍
 
@@ -36,4 +41,6 @@ https://osbook.club/ 整理的比较完整 https://github.com/oscar-open-source-
 - LFOSSA 公开课 https://training.linuxfoundation.cn/tag/%E5%85%AC%E5%BC%80%E8%AF%BE
 - CS 开源课程（英文） https://github.com/ossu/computer-science
 - 开源年报 2024: https://github.com/kaiyuanshe/2024-China-Open-Source-Report
+- 夜天之书： https://www.tisonkun.org/tags/%E5%BC%80%E6%BA%90/
 - 公众号推荐： CNCF、开源社 KAIYUANSHE、开放原子、开源之夏 OSPP、夜天之书、道客船长、开源之道、LFOSSA。
+- CS 自学指南：https://csdiy.wiki/
