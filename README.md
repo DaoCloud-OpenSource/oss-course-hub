@@ -8,15 +8,27 @@
 
 ## Draft Links
 
+### 介绍开源
+
 - [开源软件通识三部曲](https://github.com/X-lab2017/oss101): 《开源软件开发与社区治理》（研究生）、《开源软件设计与开发》（本课程）、以及《开源软件通识》（全校通识课）
   - 视频: https://www.bilibili.com/video/BV1Bg411M7Jd/?vd_source=318ddfef524f35a0a7b65532082be4d5
-- [DataWhale AI 通识课](https://www.datawhale.cn/home)
 - [开源雨林 —— 开源通识课程](https://www.osrainforest.org/)
 - [「开源基础课程」第 1 节：开源理念介绍](https://www.bilibili.com/video/BV1GQ4y1V7eS/?spm_id_from=333.337.search-card.all.click) 视频
 - [「开源基础课程」第 2 节：开源项目开发全流程介绍](https://www.bilibili.com/video/BV1LH4y1y7Pc/?spm_id_from=333.999.0.0&vd_source=318ddfef524f35a0a7b65532082be4d5) 视频
 - [“源规律”开源公益课程](https://www.bilibili.com/video/BV1Ch411K7ZD/?spm_id_from=333.337.search-card.all.click&vd_source=318ddfef524f35a0a7b65532082be4d5) 开放原子开源基金会
 - [Github: intro to open source](https://education.github.com/experiences/intro_to_open_source)
 
+### 公开课（CS）
+
+- [DataWhale AI 通识课](https://www.datawhale.cn/home)
+- [2022 南京大学 “操作系统：设计与实现” (蒋炎岩)](https://space.bilibili.com/202224425/channel/collectiondetail)
+- [2023 南京大学 “操作系统：设计与实现” (蒋炎岩)](https://space.bilibili.com/202224425/channel/collectiondetail?sid=1116786)
+- https://www.coursera.org/learn/machine-learning
+- https://www.coursera.org/search?query=%E5%BC%80%E6%BA%90&topic=Computer%20Science&sortBy=BEST_MATCH
+
+### 开源书籍
+
+https://osbook.club/ 整理的比较完整 https://github.com/oscar-open-source-book/osbook.club/
 
 
 ## 其他推荐
