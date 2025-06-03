@@ -45,3 +45,4 @@ https://osbook.club/ 整理的比较完整 https://github.com/oscar-open-source-
 - 夜天之书： https://www.tisonkun.org/tags/%E5%BC%80%E6%BA%90/
 - 公众号推荐： CNCF、开源社 KAIYUANSHE、开放原子、开源之夏 OSPP、夜天之书、道客船长、开源之道、LFOSSA。
 - CS 自学指南：https://csdiy.wiki/
+- [开源面对面](https://github.com/opensource-f2f/episode)播客: https://osf2f.net/
