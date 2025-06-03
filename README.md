@@ -10,12 +10,13 @@
 
 ### 介绍开源
 
-- [开源软件通识三部曲](https://github.com/X-lab2017/oss101): 《开源软件开发与社区治理》（研究生）、《开源软件设计与开发》（本课程）、以及《开源软件通识》（全校通识课）
-  - 视频: https://www.bilibili.com/video/BV1Bg411M7Jd/?vd_source=318ddfef524f35a0a7b65532082be4d5
+- [开源软件通识三部曲](https://github.com/X-lab2017/oss101): 《[开源软件开发与社区治理](https://www.bilibili.com/video/BV1Bg411M7Jd/?vd_source=318ddfef524f35a0a7b65532082be4d5)》（研究生）、《开源软件设计与开发》（本课程）、以及《开源软件通识》（全校通识课）
 - [开源雨林 —— 开源通识课程](https://www.osrainforest.org/)
 - [「开源基础课程」第 1 节：开源理念介绍](https://www.bilibili.com/video/BV1GQ4y1V7eS/?spm_id_from=333.337.search-card.all.click) 视频
-- [「开源基础课程」第 2 节：开源项目开发全流程介绍](https://www.bilibili.com/video/BV1LH4y1y7Pc/?spm_id_from=333.999.0.0&vd_source=318ddfef524f35a0a7b65532082be4d5) 视频
-- [“源规律”开源公益课程](https://www.bilibili.com/video/BV1Ch411K7ZD/?spm_id_from=333.337.search-card.all.click&vd_source=318ddfef524f35a0a7b65532082be4d5) 开放原子开源基金会
+- [「开源基础课程」第 2 节：开源项目开发全流程介绍](https://www.bilibili.com/video/BV1LH4y1y7Pc/) 视频
+- 开放原子开源基金会
+  - [“源规律”开源公益课程](https://www.bilibili.com/video/BV1Ch411K7ZD/)。
+  - [“开源”是什么？“码”上有答案！（第一期）](https://www.bilibili.com/video/BV1E64y1W7vb)
 - [Github: intro to open source](https://education.github.com/experiences/intro_to_open_source)
 
 ### 公开课（CS）
