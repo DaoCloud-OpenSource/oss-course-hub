@@ -46,3 +46,9 @@ https://osbook.club/ 整理的比较完整 https://github.com/oscar-open-source-
 - 公众号推荐： CNCF、开源社 KAIYUANSHE、开放原子、开源之夏 OSPP、夜天之书、道客船长、开源之道、LFOSSA。
 - CS 自学指南：https://csdiy.wiki/
 - [开源面对面](https://github.com/opensource-f2f/episode)播客: https://osf2f.net/
+- [小宇宙] [Web Worker-前端程序员都爱听](https://www.xiaoyuzhoufm.com/podcast/613753ef23c82a9a1ccfdf35)播客推荐
+
+## 社区每年的活动 
+
+- Open Source Summit: https://events.linuxfoundation.org/open-source-summit-north-america 通常会有欧洲、北美、亚洲（日本、中国），每年多次。
+- KubeCon + CloudNativeCon: https://events.linuxfoundation.org/kubecon-cloudnativecon-china/ 通常会有欧洲、北美、亚洲（中国、日本、印度）。
