@@ -28,6 +28,8 @@
 - https://www.coursera.org/search?query=%E5%BC%80%E6%BA%90&topic=Computer%20Science&sortBy=BEST_MATCH
 - [斯坦福2023年公开课CS25 I - Transformer入门介绍（中英文字幕）](https://www.youtube.com/watch?v=kog-DHyROks)
 - [【清华NLP】刘知远团队大模型公开课全网首发｜带你从入门到实战](https://www.bilibili.com/video/BV1UG411p7zv)
+- [Physical AI & Humanoid Robotics 学习资源](https://github.com/panaversity/learn-physical-ai-humanoid-robotics)
+- [AI 学习材料整理](https://docs.google.com/document/d/15usu1hkrrRLRjcq_3nCTT-0ljEcgiC44iSdvdqrCprk/edit?tab=t.0)
 - 台大公开课 https://ocw.aca.ntu.edu.tw/ntu-ocw/category/3
 
 
