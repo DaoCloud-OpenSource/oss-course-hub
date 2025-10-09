@@ -18,6 +18,7 @@
   - [“源规律”开源公益课程](https://www.bilibili.com/video/BV1Ch411K7ZD/)。
   - [“开源”是什么？“码”上有答案！（第一期）](https://www.bilibili.com/video/BV1E64y1W7vb)
 - [Github: intro to open source](https://education.github.com/experiences/intro_to_open_source)
+- [GSoC 分析](https://github.com/erdengk/gsoc-analyse): Google Summer of Code 相关数据分析与科普
 
 ### 公开课（CS）
 
