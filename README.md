@@ -27,6 +27,8 @@
 - [Linux Foundation Training](https://training.linuxfoundation.org/resources/?_sft_content_type=free-course) - Linux 基金会免费课程
 - [TODO Group](https://todogroup.org/guides/) - 企业开源最佳实践指南
 - [开源软件供应链点亮计划](https://summer-ospp.ac.cn/) - 暑期开源活动学习资源
+- [GSoC 分析](https://github.com/erdengk/gsoc-analyse): Google Summer of Code 相关数据分析与科普
+
 
 ### 公开课（CS）
 
