@@ -36,6 +36,8 @@
 
 https://osbook.club/ 整理的比较完整 https://github.com/oscar-open-source-book/osbook.club/
 
+- [Awesome CS Books](https://github.com/imarvinle/awesome-cs-books): 经典计算机书籍推荐
+
 
 ## 其他推荐
 
