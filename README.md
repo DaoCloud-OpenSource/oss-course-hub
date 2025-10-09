@@ -66,6 +66,7 @@ https://osbook.club/ 整理的比较完整 https://github.com/oscar-open-source-
 - [Understanding Open Source and Free Software Licensing](https://www.oreilly.com/library/view/understanding-open-source/0596005814/) - 开源许可证详解
 - [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/) - Eric Raymond 经典著作
 - [Just for Fun: The Story of an Accidental Revolutionary](https://en.wikipedia.org/wiki/Just_for_Fun) - Linus Torvalds 自传
+- [Awesome CS Books](https://github.com/imarvinle/awesome-cs-books): 经典计算机书籍推荐
 
 #### 技术与编程
 - [《深入理解计算机系统》(CSAPP)](http://csapp.cs.cmu.edu/) - 计算机系统经典教材
