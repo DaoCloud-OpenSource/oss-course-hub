@@ -18,7 +18,7 @@
   - [“源规律”开源公益课程](https://www.bilibili.com/video/BV1Ch411K7ZD/)。
   - [“开源”是什么？“码”上有答案！（第一期）](https://www.bilibili.com/video/BV1E64y1W7vb)
 - [Github: intro to open source](https://education.github.com/experiences/intro_to_open_source)
-- [开源指北](https://oschina.gitee.io/opensource-guide/) - 开源社区的指导手册
+- [Gitee 开源指南]([https://oschina.gitee.io/opensource-guide/](https://gitee.com/oschina/gitee-opensource-guide)) - 开源社区的指导手册
 - [The Open Source Way](https://www.theopensourceway.org/) - 红帽开源实践指南（英文）
 - [Open Source Guides](https://opensource.guide/) - GitHub 开源指南（中英文）
 - [Apache 之道](https://github.com/apache/incubator-community-projects/tree/main/the-apache-way) - Apache 软件基金会文化与实践
