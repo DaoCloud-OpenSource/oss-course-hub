@@ -21,7 +21,7 @@
 - [Gitee 开源指南]([https://oschina.gitee.io/opensource-guide/](https://gitee.com/oschina/gitee-opensource-guide)) - 开源社区的指导手册
 - [The Open Source Way](https://www.theopensourceway.org/) - 红帽开源实践指南（英文）
 - [Open Source Guides](https://opensource.guide/) - GitHub 开源指南（中英文）
-- [Apache 之道](https://github.com/apache/incubator-community-projects/tree/main/the-apache-way) - Apache 软件基金会文化与实践
+- [Apache 之道](https://www.apache.org/theapacheway/) - Apache 软件基金会文化与实践
 - [开源之道](https://opensourceway.community/) - 开源之道社区资源
 - [Producing Open Source Software](https://producingoss.com/) - Karl Fogel 经典开源书籍（多语言）
 - [Linux Foundation Training](https://training.linuxfoundation.org/resources/?_sft_content_type=free-course) - Linux 基金会免费课程
@@ -42,8 +42,8 @@
 - [CS50: Introduction to Computer Science](https://cs50.harvard.edu/) - 哈佛大学计算机科学入门课程
 - [Stanford Online](https://online.stanford.edu/explore?topics%5B%5D=90) - 斯坦福大学在线课程
 - [北京大学《操作系统原理》- 向勇、陈渝](https://www.bilibili.com/video/BV1Gx411Q7ro) - 北大操作系统课程
-- [浙江大学《数据结构》- 陈越、何钦铭](https://www.bilibili.com/video/BV1JW411i731) - 浙大数据结构课程
-- [中国大学MOOC - 计算机类课程](https://www.icourse163.org/category/computer) - 国内高校精品课程
+- [浙江大学《数据结构》- 陈越、何钦铭](https://www.bilibili.com/video/BV1qU4y1v7p2/) - 浙大数据结构课程
+- [中国大学MOOC - 计算机类课程](https://space.bilibili.com/243619979/lists/1606170?type=series) - 国内高校精品课程
 - [edX Computer Science](https://www.edx.org/learn/computer-science) - edX 计算机科学课程
 - [Udacity Free Courses](https://www.udacity.com/courses/all?type=free%20courses) - Udacity 免费课程
 - [freeCodeCamp](https://www.freecodecamp.org/chinese/learn/) - 免费编程学习平台（中文）
