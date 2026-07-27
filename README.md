@@ -126,7 +126,10 @@ https://osbook.club/ 整理的比较完整 https://github.com/oscar-open-source-
 - [GitHub Trending](https://github.com/trending) - GitHub 热门项目
 
 ### 年报与博客
+- 中国开源发展深度报告 2025: https://www.openatom.cn/deep-report/index/main/2025
 - 开源年报 2024: https://github.com/kaiyuanshe/2024-China-Open-Source-Report
+- [OpenDigger 开源生态数据平台](https://github.com/X-lab2017/open-digger) - 可辅助理解报告中的活跃度、贡献者与项目增长趋势
+- [OSS-Compass 社区中文博客](https://github.com/oss-compass/community-zh) - 包含开源生态观察与报告相关数据解读
 - 夜天之书： https://www.tisonkun.org/tags/%E5%BC%80%E6%BA%90/
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/) - 技术博客
 - [酷壳 CoolShell](https://coolshell.cn/) - 陈皓技术博客
